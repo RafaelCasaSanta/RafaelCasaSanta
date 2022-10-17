@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RafaelCasaSanta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Games, Anime and Music.
+- 🌱 I’m currently learning PHP using Laravel
+- 💞️ I’m looking to collaborate on a project 
 - 📫 How to reach me rafael.casasanta@edu.unifil.br
 
 <!---
