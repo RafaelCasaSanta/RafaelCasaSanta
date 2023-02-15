@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @RafaelCasaSanta
-- 👀 I’m interested in Games, Anime and Music.
-- 🌱 I’m currently learning PHP using Laravel
-- 💞️ I’m looking to collaborate on a project 
-- 📫 How to reach me rafael.casasanta@edu.unifil.br
-
-<!---
-RafaelCasaSanta/RafaelCasaSanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Condensed&size=75&duration=2500&pause=600&color=F7ED0C&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+Name+Is+Rafael+Casa+Santa+Pierote!;Welcome+To+My+Profile!" alt="Typing SVG" /></a>
+</h1>
